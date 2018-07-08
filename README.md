@@ -7,7 +7,7 @@ hello_service.bal - Twitter implementation.
 Edit the twitter.toml file by using your twitter account keys (ref: https://ballerina.io/learn/quick-tour/)
 
 employee_db_service.bal - Database Implementation
-initializeDatabase.sql - The SQL file of the database
+EMPLOYEE_RECORDS.sql - The SQL file of the database
 (ref: https://ballerina.io/learn/by-guide/data-backed-service/)
 
 The database service has been integrated with the twitter service.
