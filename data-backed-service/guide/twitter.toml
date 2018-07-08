@@ -1,5 +1,5 @@
 # Ballerina demo config file
-    consumerKey = "UL41ATK9jQssnFGcZ4Gq9szqd"
-    consumerSecret = "VQzaC1bEi9C0WvxUFstYfRsyIpc1lpFMKleFuyrumAFZ6waREW"
-    accessToken = "1004411839231418369-yS6vdDCm6g76YyO3CozKdzt0A7qUj2"
-    accessTokenSecret = "6MYB7M4i1VknhjuUny6liPVxsllhpf0XWcT5XvHzREPFn"
+    consumerKey = "consumer key"
+    consumerSecret = "consumer secret key"
+    accessToken = "access token"
+    accessTokenSecret = "access token secret"
